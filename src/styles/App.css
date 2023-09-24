@@ -1,1 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.parent{
+    width: 100%;
+    height: auto;
+    background-color: green ;
+    text-align: center;
+}
+
+.parent h1{
+    
+    font-size: xxx-large;
+}
+
+.parent p{
+    font-size: x-large;
+}
+
+.child{
+    width:80%;
+    height:auto;
+    margin:25px auto;
+    background-color: red;
+    margin-top: 2%;
+}
 
